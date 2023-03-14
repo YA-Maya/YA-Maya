@@ -1,26 +1,8 @@
-<!--
-**YA-Maya/YA-Maya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Sumeya Ahmed, a Software engineering consult.</h2>
-<p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
-  <br>
+<p align="center">I'm passionate to build upon my skill set with each day, and to be creative with code!</p>
+
   <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
 </div>
 <br>
@@ -34,15 +16,16 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-https://user-images.githubusercontent.com/79907183/203523889-2863f50c-1f91-4700-95a8-0e3cd5f1504e.mp4
 
 <br>
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
+  <br>
 
-You can reach me at **o.cadman@live.co.uk**
+You can reach me at **SumeyaSK6@gmail.com**
 
 # Let's do something!
-<p><a href="https://www.linkedin.com/in/oliver-cadman-23663b36/">Connect with me on LinkedIn</a>
+<p><a href="https://www.linkedin.com/in/sumeya-ahmed/">Connect with me on LinkedIn</a>
 
 ## Languages and Tools I'm Using
 <p>
