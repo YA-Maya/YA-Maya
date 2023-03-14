@@ -1,26 +1,25 @@
 
 <h1 align="center">Hey There :v:</h1>
-<h2 align="center">My name is Sumeya Ahmed, I'm a Software engineering consult.</h2>
-<p align="center">I'm passionate to build upon my skill set with each day, and to be creative with code!</p>
+<h2 align="center">My name Sumeya Ahmed, I'm a Software engineering consult.</h2>
+<p align="center"I am thrilled to continuously enhance my skills and knowledge in the field of software engineering cunsult, and to explore new and innovative ways of writing efficient and effective code. Working with code brings me immense joy and satisfaction, and I am always eager to learn and grow as a developer. Honesty and transparency are essential values that I strive to uphold in all aspects of my work, and I believe that they are crucial for fostering a positive and productive work environment.</p>
 
   <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
 </div>
 
-- :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
+- :open_book: Recently graduated with Distinction from the **Just It and Xander Talent academy**, with a Diploma in Software Development.
 
-- :raising_hand_man: I'm a fervent empath, so please, ask me anything! I'm always keen to collaborate and learn to get a deeper understanding.
+- :raising_hand_man: I am an empathetic individual who values open communication and collaboration. Please feel free to ask me any questions, as I am always eager to learn and gain a deeper understanding of the topic at hand. I believe that working together with others is key to achieving success and finding innovative solutions to complex problems.
 
-- :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
-
+- :art: While I am proficient in both front-end and back-end development, I have a particular passion for using code to create dynamic and interactive experiences. Whether it be through animations, user interfaces, or other forms of visual design, I enjoy exploring the creative possibilities that technology offers.
 <br>
 
 ## <a name="projects">Projects</a>
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| **[Rock, Papater, Sciccess][1]**      | Just a normal rock, paper, and scissors      | JavaScript, CSS, HTML
+| **[Rock, Paper, scissors][1]**      | Just a normal rock, paper, and scissors against the computer     | JavaScript, CSS, HTML
 | **[Hangman][2]**       | Friends information organiser   | Python
-| **[fiml-Flex][3]**               | film organiser    | Python  
+| **[Film-Flex][3]**               | film organiser    | Python  
 | **[Flappy][4]**       | flappy bird game               |  HTML, CSS, JavaScript  
 
 <br>
@@ -43,6 +42,11 @@ You can reach me at **Sumeyask6@gmail.com**
 <p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
 
+<br />
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/sumeya-ahmed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 <br />
 
 [1]:https://github.com/YA-Maya/Rock_Paper_Scissors
