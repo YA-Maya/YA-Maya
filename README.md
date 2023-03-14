@@ -30,7 +30,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="court534" /></p> -->
 
-You can reach me at **Sumeyask6@gmail.com**
 
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/sumeya-ahmed/">Connect with me on LinkedIn</a>
