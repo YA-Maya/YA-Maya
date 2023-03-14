@@ -13,10 +13,11 @@
 - :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
 
 <br>
-//## <a name="projects">Projects</a>
 
-//| Name                         | Description                     | Tech/tools                                                        |
-//| -----------------------------| ------------------------        | ----------------------
+## <a name="projects">Projects</a>
+
+| Name                         | Description                     | Tech/tools                                                        |
+| -----------------------------| ------------------------        | ----------------------
 | **[Rock, Papater, Sciccess][1]**      | Just a normal rock, paper, and scissors      | JavaScript, CSS, HTML
 | **[Hangman][2]**       | Friends information organiser   | Python
 | **[fiml-Flex][3]**               | film organiser    | Python  
@@ -35,11 +36,19 @@ You can reach me at **Sumeyask6@gmail.com**
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/sumeya-ahmed/">Connect with me on LinkedIn</a>
 
-## Languages and Tools I'm Using
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="assets/images/html5logo.svg" alt="HTML5 Logo" width="40" height="40"></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="assets/images/css3logo.svg" alt="CSS3 Logo" width="40" height="40"></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/images/javascriptlogo.svg" alt="JavaScript Logo" width="40" height="40"></a>&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="HTML5 Logo" width="40" height="40"></a>&nbsp;<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">&nbsp;<a href="https://www.djangoproject.com" target="_blank"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="HTML5 Logo" width="40" height="40"></a>&nbsp;<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png?20120519143422" alt="HTML5 Logo" width="70" height="40"></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="assets/images/reactlogo.svg" alt="ReactJS Logo" width="40" height="40"></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1220px-Docker_%28container_engine%29_logo.svg.png?20161017201350" alt="Adobe Illustrator Logo" width="136" height="32"></a>&nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/images/visualstudio-code-logo.svg" alt="Visual Studio Code 2 Logo" width="40" height="40"></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="assets/images/gitlogo.svg" alt="Git Logo" width="40" height="40"></a>&nbsp;<a href="https://getbootstrap.com/" target="_blank"><img src="assets/images/bootstrap4.svg" alt="Bootstrap Logo" width="40" height="40"></a>&nbsp;
-</p>
+### Technologies most used:
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
+### Technologies I've experienced:
+<p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
+
+<br />
+
+[1]:https://github.com/YA-Maya/Rock_Paper_Scissors
+[2]:https://github.com/YA-Maya/Hangman
+[3]:https://github.com/YA-Maya/Films-Flix
+[4]:https://github.com/YA-Maya/flappy
   
   
 <br>
