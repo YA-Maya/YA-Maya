@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey There :v:</h1>
-<h2 align="center">I'm Sumeya Ahmed, a Software engineering consult.</h2>
+<h2 align="center">My name is Sumeya Ahmed, I'm a Software engineering consult.</h2>
 <p align="center">I'm passionate to build upon my skill set with each day, and to be creative with code!</p>
 
   <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
