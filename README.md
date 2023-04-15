@@ -10,7 +10,6 @@
 
 - :raising_hand_man: I am an empathetic individual who values open communication and collaboration. Please feel free to ask me any questions, as I am always eager to learn and gain a deeper understanding of the topic at hand. I believe that working together with others is key to achieving success and finding innovative solutions to complex problems.
 
-- :art: While I am proficient in both front-end and back-end development, I have a particular passion for using code to create dynamic and interactive experiences. Whether it be through animations, user interfaces, or other forms of visual design, I enjoy exploring the creative possibilities that technology offers.
 <br>
 
 ## <a name="projects">Projects</a>
