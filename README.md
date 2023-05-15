@@ -1,7 +1,6 @@
-
-<h1 align="center">Hey There :v:</h1>
-<h2 align="center">My name Sumeya Ahmed, I'm a Software engineering consult.</h2>
-<p align="center"I am thrilled to continuously enhance my skills and knowledge in the field of software engineering cunsult, and to explore new and innovative ways of writing efficient and effective code. Working with code brings me immense joy and satisfaction, and I am always eager to learn and grow as a developer. Honesty and transparency are essential values that I strive to uphold in all aspects of my work, and I believe that they are crucial for fostering a positive and productive work environment.</p>
+![Sumeya (1)](https://github.com/YA-Maya/YA-Maya/assets/98185508/3678a463-37b4-42d8-9a0e-25a07f96a587)
+<h1 align="left"> 🌼 Hi My name Sumeya 🌼</h1>
+<p align="left"I am thrilled to continuously enhance my skills and knowledge in the field of software engineering cunsult, and to explore new and innovative ways of writing efficient and effective code. Working with code brings me immense joy and satisfaction, and I am always eager to learn and grow as a developer. Honesty and transparency are essential values that I strive to uphold in all aspects of my work, and I believe that they are crucial for fostering a positive and productive work environment.</p>
 
   <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
 </div>
@@ -10,16 +9,14 @@
 
 - :raising_hand_man: I am an empathetic individual who values open communication and collaboration. Please feel free to ask me any questions, as I am always eager to learn and gain a deeper understanding of the topic at hand. I believe that working together with others is key to achieving success and finding innovative solutions to complex problems.
 
-<br>
-
-## <a name="projects">Projects</a>
+### 🦋 <a name="projects">Projects</a> 🦋
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| **[Rock, Paper, scissors][1]**      | Just a normal rock, paper, and scissors against the computer     | JavaScript, CSS, HTML
-| **[Hangman][2]**       | Friends information organiser   | Python
-| **[Film-Flex][3]**               | film organiser    | Python  
-| **[Flappy][4]**       | flappy bird game               |  HTML, CSS, JavaScript  
+| **[Rock, Paper, scissors][1]**      | Rock, Paper, and Scissors against the computer     | JavaScript, CSS, HTML
+| **[Hangman][2]**       | Friends information Organiser   | Python
+| **[Film-Flex][3]**               | Film Organiser    | Python  
+| **[Flappy][4]**       | Flappy Bird Game               |  HTML, CSS, JavaScript  
 
 <br>
 
@@ -30,15 +27,33 @@
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="Ya-Maya" /></p>-->
 
 
-# Let's do something!
+###   🌻 Let's do something!  🌻 
 <p><a href="https://www.linkedin.com/in/sumeya-ahmed/">Connect with me on LinkedIn</a>
+<p> <a href="https://sumeya.tech/">Connect with me on website</a>
 
-### Technologies most used:
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+### 🦩 Technologies most used 🦩:
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-### Technologies I've experienced:
+
+</p>
+
+### 🌲 Technologies I've experienced 🌲 :
 <p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
+ </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+</a>
+ 
+ </p>
 
 
 ### Connect with me:
