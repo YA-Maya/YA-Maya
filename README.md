@@ -14,7 +14,7 @@
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
 | **[Rock, Paper, scissors][1]**      | Rock, Paper, and Scissors against the computer     | JavaScript, CSS, HTML
-| **[Hangman][2]**       | Friends information Organiser   | Python
+| **[Hangman][2]**       | Friendly hangman game with 50k+ word  | Python
 | **[Film-Flex][3]**               | Film Organiser    | Python  
 | **[Flappy][4]**       | Flappy Bird Game               |  HTML, CSS, JavaScript  
 
