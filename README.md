@@ -70,7 +70,4 @@
 [5]:https://github.com/YA-Maya/Rock-Paper-and-Scissors-with-React
   
   
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
-  <br>
+
