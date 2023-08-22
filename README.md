@@ -2,10 +2,10 @@
 <h1 align="left"> 🌼 Hi My name Sumeya 🌼</h1>
 <p align="left"I am thrilled to continuously enhance my skills and knowledge in the field of software engineering cunsult, and to explore new and innovative ways of writing efficient and effective code. Working with code brings me immense joy and satisfaction, and I am always eager to learn and grow as a developer. Honesty and transparency are essential values that I strive to uphold in all aspects of my work, and I believe that they are crucial for fostering a positive and productive work environment.</p>
 
-  <h3>Currently looking for a job as a Software Engineering Consultant.</h3>
+  <h3>Currently I am a freelancer on Upwork.</h3>
 </div>
 
-- :open_book: Recently graduated with Distinction from the **Just It and Xander Talent academy**, with a Diploma in Software Development.
+- :open_book: Recently graduated with Distinction from the **Just It and Xander Talent academy**, with a Diploma in Software Development and software engineering consultant.
 
 - :raising_hand_man: I am an empathetic individual who values open communication and collaboration. Please feel free to ask me any questions, as I am always eager to learn and gain a deeper understanding of the topic at hand. I believe that working together with others is key to achieving success and finding innovative solutions to complex problems.
 
@@ -13,6 +13,7 @@
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
+| **[FluentType][6]** |FluentType' is an engaging typing game that evaluates your accuracy in real time. By challenging you to press the correct keys swiftly| HTML, CSS, JS|
 | **[Rock, Paper, scissors][1]**      | Rock, Paper, and Scissors against the computer     | JavaScript, CSS, HTML
 | **[Rock, paper, Scissors with React and AWS][5]** | Rock, Paper, and Scissors against the computer with dark/ Light mode and sign up/login| React and AWS|
 | **[Hangman][2]**       | Friendly hangman game with 50k+ word  | Python
@@ -68,6 +69,8 @@
 [3]:https://github.com/YA-Maya/Films-Flix
 [4]:https://github.com/YA-Maya/flappy
 [5]:https://github.com/YA-Maya/Rock-Paper-and-Scissors-with-React
+[6]:https://github.com/YA-Maya/Fluent-Type
+
   
   
 
